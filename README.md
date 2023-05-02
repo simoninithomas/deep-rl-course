@@ -1,1 +1,1 @@
-# deep-rl-course (unpublished)
+# deep-rl-course
